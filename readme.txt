@@ -1,7 +1,7 @@
 === End Page Slide Box ===
 
 Contributors: graphicedit
-Donate link: http://www.graphicedit.com/
+Donate link: http://graphicedit.com/
 Tags: post, page, posts, pages, short code, jQuery, Slide, box
 Requires at least: 3.0
 Tested up to: 3.0
@@ -14,7 +14,7 @@ End Page Slide Box is to have an element in the page when you hit the bottom of 
 
 
 
-Links: [Author Homepage](http://www.graphicedit.com/)
+Links: [Author Homepage](http://graphicedit.com/)
 
 == Installation ==
 1. Upload the "End Page Slide Box" folder to the `/wp-content/plugins/` directory
