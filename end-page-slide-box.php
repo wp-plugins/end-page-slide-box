@@ -5,7 +5,7 @@ Plugin URI: http://graphicedit.com/blog/plugin/end-page-slide-box/
 Description: End Page Slide Box
 Version: 1.0.0
 Author: GraphicEdit
-Author URI: http://www.graphicedit.com/
+Author URI: http://graphicedit.com/
 
 	Copyright 2011  GraphicEdit  (email : contact@graphicedit.com)
 
