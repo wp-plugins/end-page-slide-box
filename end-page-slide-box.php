@@ -3,7 +3,7 @@
 Plugin Name: End Page Slide Box
 Plugin URI: http://graphicedit.com/blog/plugin/end-page-slide-box/
 Description: End Page Slide Box
-Version: 1.0.0
+Version: 1.0.1
 Author: GraphicEdit
 Author URI: http://graphicedit.com/
 
