@@ -4,7 +4,7 @@ Contributors: graphicedit
 Donate link: http://graphicedit.com/
 Tags: post, page, posts, pages, short code, jQuery, Slide, box
 Requires at least: 4.2.2
-Tested up to: 4.2.2
+Tested up to: 4.3 
 Stable tag: 1.0.1
 
 End Page Slide Box is to have an element in the page last paragraph that triggers End Page Slide Box to appear. 
